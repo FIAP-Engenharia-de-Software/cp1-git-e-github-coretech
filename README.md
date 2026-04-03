@@ -32,7 +32,7 @@ Nosso site oferece carros com a cara de cada cliente.
 ---
 
 ## 🔗 Acesse o Projeto
-👉 link do GitHub Pages
+👉 https://fiap-engenharia-de-software.github.io/cp1-git-e-github-coretech/
 
 ---
 
